@@ -1,1 +1,1 @@
-**ДОМАШНЕЕ ЗАДАНИЕ В ПРИКРЕПЛЕННОМ [ФАЙЛЕ](https://github.com/mastergoroch/-No_1/blob/main/dz.py)**
+**ДОМАШНЕЕ ЗАДАНИЕ В [ФАЙЛЕ]("C:\Users\DNS\dz.py")**
